@@ -15,7 +15,7 @@ Build the docker image:
 $ docker-compose build
 ```
 
-Run the server:
+Then run the server:
 
 ```sh
 $ docker-compose up
